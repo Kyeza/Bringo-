@@ -1,11 +1,14 @@
 #navbar-custom {
-	background-color: #0E4A48;
+	background-color: #004D48;
+	border-style: none;
 	border-radius: 0px;
 	text-align: center;
 }
 
 #close-btn-custom {
 	padding-right: 30px;
+	color: #777F84;
+	text-shadow: 2px 2px 8px #000000;
 }
 
 #nav-email-custom {
@@ -13,7 +16,21 @@
 }
 
 #subscribe-custom {
-	background-color: #A2F03C;
-	border-color: #A2F03C;
+	color: #FFFFFF;
+	background-color: #64EC47;
+	border-color: #64EC47;
 	border-radius: 0px;
+}
+
+span.icon {
+	padding: 5px;
+}
+
+a:link {
+    color: #777F84;
+}
+
+nav.navbar-default {
+	background-color: #FFFFFF;
+	border-style: none;
 }
