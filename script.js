@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$("span").click(function() {
+	$("#close-btn-custom").click(function() {
 		$("nav").remove();
 	});
 });
