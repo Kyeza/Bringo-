@@ -1,0 +1,19 @@
+#navbar-custom {
+	background-color: #0E4A48;
+	border-radius: 0px;
+	text-align: center;
+}
+
+#close-btn-custom {
+	padding-right: 30px;
+}
+
+#nav-email-custom {
+	border-radius: 0px;
+}
+
+#subscribe-custom {
+	background-color: #A2F03C;
+	border-color: #A2F03C;
+	border-radius: 0px;
+}
