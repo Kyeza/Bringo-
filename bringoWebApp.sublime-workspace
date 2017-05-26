@@ -4,32 +4,140 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"border-style"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"co",
+				"col-sm-3"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"btn",
+				"btn-block"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"B",
+				"Bringo"
+			],
+			[
+				"my",
+				"myCarousel"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"in",
+				"input-group"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
 				"drop",
 				"dropdown"
 			],
 			[
-				"co",
-				"col-sm-9"
-			],
-			[
-				"pad",
-				"padding-top"
-			],
-			[
 				"BO",
 				"border"
-			],
-			[
-				"te",
-				"text-decoration-color"
-			],
-			[
-				"pa",
-				"padding-left"
-			],
-			[
-				"s",
-				"span\tTag"
 			],
 			[
 				"na",
@@ -64,24 +172,8 @@
 				"function"
 			],
 			[
-				"ba",
-				"background-color"
-			],
-			[
 				"sc",
 				"script\tTag"
-			],
-			[
-				"fu",
-				"function"
-			],
-			[
-				"bo",
-				"border-color"
-			],
-			[
-				"p",
-				"padding"
 			],
 			[
 				"int",
@@ -98,10 +190,6 @@
 			[
 				"he",
 				"max-height"
-			],
-			[
-				"bor",
-				"border-right-width"
 			],
 			[
 				"H",
@@ -128,10 +216,6 @@
 				"i\tTag"
 			],
 			[
-				"in",
-				"input-group"
-			],
-			[
 				"u",
 				"ul\tTag"
 			],
@@ -151,20 +235,25 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2690,
+				"buffer_size": 5924,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "/*Navigation 1 and 2 styling*/\n#navbar-custom {\n\tbackground-color: #004D48;\n\tborder-style: none;\n\tborder-radius: 0px;\n\ttext-align: center;\n}\n\n#close-btn-custom {\n\tpadding-right: 30px;\n\tcolor: #777F84;\n\ttext-shadow: 2px 2px 8px #000000;\n}\n\n#nav-email-custom {\n\tborder-radius: 0px;\n}\n\n#subscribe-custom {\n\tcolor: #FFFFFF;\n\tbackground-color: #64EC47;\n\tborder-color: #64EC47;\n\tborder-radius: 0px;\n}\n\nspan.icon {\n\tpadding: 5px;\n}\n\na:link {\n    color: #777F84;\n}\n\nnav.navbar-default {\n\tbackground-color: #FFFFFF;\n\tborder-style: none;\n}\n/*End of Navigation 1 and 2 styling*/\n\n/*Drop down menu*/\n/* Style The Dropdown Button */\n/*.dropdown {\n    background-color: #4CAF50;\n    color: white;\n    padding: 16px;\n    font-size: 16px;\n    border: none;\n    cursor: pointer;\n}*/\n.btn-default {\n    background-color: #4CAF50;\n    color: white;\n    padding: 16px;\n    font-size: 16px;\n    border: none;\n    cursor: pointer;\n}\n\n/* The container <div> - needed to position the dropdown content */\n.dropdown {\n    position: relative;\n    display: inline-block;\n}\n\n/* Dropdown Content (Hidden by Default) */\n.dropdown-content {\n    display: none;\n    position: absolute;\n    background-color: #f9f9f9;\n    min-width: 160px;\n    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);\n    z-index: 1;\n}\n\n/* Links inside the dropdown */\n.dropdown-content a {\n    color: black;\n    padding: 12px 16px;\n    text-decoration: none;\n    display: block;\n}\n\n/* Change color of dropdown links on hover */\n.dropdown-content a:hover {background-color: #f1f1f1}\n\n/* Show the dropdown menu on hover */\n.dropdown:hover .dropdown-content {\n    display: block;\n}\n\n/* Change the background color of the dropdown button when the dropdown content is shown */\n.dropdown:hover .btn-default {\n    background-color: #3e8e41;\n}",
 			"file": "style.css",
-			"file_size": 1619,
-			"file_write_time": 131399973600025184,
 			"settings":
 			{
-				"buffer_size": 1773,
+				"buffer_size": 2308,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<div class=\"col-sm-3 thambnail\">\n\t\t\t\t\t\t\t<img style=\"margin: 0px\" class=\"img-responsive\" src=\"images/foods/placeholder.png\" alt=\"foods\" style=\"width: 100%\">\n\t\t\t\t\t\t\t<div class=\"caption text-center\">\n\t\t\t\t\t\t\t\t<p>Fruit combo for 6-10</p>\n\t\t\t\t\t\t\t\t<p style=\"margin: -10px;\"><strong>UGX 9000</strong> / normal</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"text-center\">\n\t\t\t\t\t\t\t\t<button id=\"btn-thb\" class=\"btn btn-default btn-md\">VIEW PLAN</button>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-sm-3 thambnail\">\n\t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"images/foods/placeholder.png\" alt=\"foods\" style=\"width: 100%\">\n\t\t\t\t\t\t\t<div class=\"caption text-center\">\n\t\t\t\t\t\t\t\t<p>Veggies' for 8-10</p>\n\t\t\t\t\t\t\t\t<p style=\"margin: -10px;\"><strong>UGX 9000</strong> / normal</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"text-center\">\n\t\t\t\t\t\t\t\t<button class=\"btn btn-default btn-md\">VIEW PLAN</button>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-sm-3 thambnail\">\n\t\t\t\t\t\t\t<img class=\"img-responsive\" src=\"images/foods/placeholder.png\" alt=\"foods\" style=\"width: 100%\">\n\t\t\t\t\t\t\t<div class=\"caption text-center\">\n\t\t\t\t\t\t\t\t<p>Nuts and cereal plan</p>\n\t\t\t\t\t\t\t\t<p style=\"margin: -10px;\"><strong>UGX 9000</strong> / normal</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"text-center\">\n\t\t\t\t\t\t\t\t<button class=\"btn btn-default btn-md\">VIEW PLAN</button>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>",
+			"settings":
+			{
+				"buffer_size": 1319,
 				"line_ending": "Unix"
 			}
 		},
@@ -172,7 +261,7 @@
 			"file": "script.js",
 			"settings":
 			{
-				"buffer_size": 115,
+				"buffer_size": 527,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -214,6 +303,10 @@
 	],
 	"file_history":
 	[
+		"/home/kyeza/Desktop/Bringo-web-App/extraCss.css",
+		"/home/kyeza/Desktop/Bringo-web-App/newCode.html",
+		"/home/kyeza/Desktop/slick-1.6.0/index.html",
+		"/home/kyeza/Desktop/Bringo-web-App/extraCode.html",
 		"/media/kyeza/01D2D2875503DC60/workspace/Web-Dev-workspace/Bringo/index.html",
 		"/media/kyeza/01D2D2875503DC60/workspace/Web-Dev-workspace/Bringo/page.html",
 		"/media/kyeza/01D2D2875503DC60/workspace/Web-Dev-workspace/Bringo/style.css",
@@ -237,6 +330,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"em",
+			"md",
+			"sliders",
+			"class=\"img-responsive\"",
+			"height=\"345\"",
+			"width=\"460\"",
+			" class=\"item\"",
+			"images/sliders",
 			"dropbtn",
 			"%;",
 			"small",
@@ -250,6 +351,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"strong",
+			"carousel",
+			"class=\"img-responsive img-cus\"",
+			"height=\"200px\"",
+			"width=\"100%\"",
+			"",
+			"images /sliders",
 			"btn-default",
 			"label",
 			"small",
@@ -273,15 +381,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2690,
+						"buffer_size": 5924,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2428,
-								2428
+								5887,
+								5887
 							]
 						],
 						"settings":
@@ -290,7 +398,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 810.0,
+						"translation.y": 2628.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -302,15 +410,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1773,
+						"buffer_size": 2308,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								767,
-								767
+								2308,
+								2308
 							]
 						],
 						"settings":
@@ -319,7 +427,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 542.0,
+						"translation.y": 2106.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -327,19 +435,47 @@
 				},
 				{
 					"buffer": 2,
-					"file": "script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 115,
+						"buffer_size": 1319,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								80,
-								80
+								1319,
+								1319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
 							]
 						],
 						"settings":
@@ -351,7 +487,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
