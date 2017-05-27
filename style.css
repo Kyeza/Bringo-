@@ -124,3 +124,25 @@ div.container {
 }
 
 /* Thamb nails */
+div.desc {
+	text-align: center;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+
+/* Footer */
+footer {
+	margin-top: 20px; 
+	padding-top: 70px;
+	padding-bottom: 90px;
+	min-width: 100%;
+	background-color: #004D48;
+	text-align: left;
+}
+
+footer.ft {
+	margin-top: 0; 
+	background-color: #1D2F37; 
+	padding: 20px; 
+	text-align:center;
+}
