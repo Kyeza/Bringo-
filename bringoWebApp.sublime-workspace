@@ -4,6 +4,114 @@
 		"selected_items":
 		[
 			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"container-fluid"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bt",
+				"btn-md"
+			],
+			[
+				"te",
+				"text-left"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wi",
+				"min-width"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
 				"text",
 				"text-align"
 			],
@@ -12,36 +120,12 @@
 				"border-style"
 			],
 			[
-				"ma",
-				"margin"
-			],
-			[
-				"ba",
-				"background"
-			],
-			[
-				"co",
-				"col-sm-3"
-			],
-			[
-				"te",
-				"text-center"
-			],
-			[
-				"marg",
-				"margin-left"
-			],
-			[
 				"border",
 				"border-style"
 			],
 			[
 				"tex",
 				"text-center"
-			],
-			[
-				"btn",
-				"btn-block"
 			],
 			[
 				"h",
@@ -54,18 +138,6 @@
 			[
 				"s",
 				"style\tAttr"
-			],
-			[
-				"pa",
-				"padding"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
-				"bor",
-				"border-color"
 			],
 			[
 				"c",
@@ -108,24 +180,12 @@
 				"input-group"
 			],
 			[
-				"bt",
-				"btn-default"
-			],
-			[
-				"for",
-				"form-control"
-			],
-			[
 				"font",
 				"font-size"
 			],
 			[
 				"max",
 				"max-width"
-			],
-			[
-				"fo",
-				"font-size"
 			],
 			[
 				"bac",
@@ -152,10 +212,6 @@
 				"li\tTag"
 			],
 			[
-				"col",
-				"col-sm-3"
-			],
-			[
 				"cont",
 				"container-fluid"
 			],
@@ -180,10 +236,6 @@
 				"input-group"
 			],
 			[
-				"mar",
-				"margin"
-			],
-			[
 				"b",
 				"background-color"
 			],
@@ -202,14 +254,6 @@
 			[
 				"border-r",
 				"border-radius"
-			],
-			[
-				"li",
-				"list-inline"
-			],
-			[
-				"wi",
-				"width"
 			],
 			[
 				"i",
@@ -232,10 +276,19 @@
 	"buffers":
 	[
 		{
+			"file": "plan.html",
+			"settings":
+			{
+				"buffer_size": 10478,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5924,
+				"buffer_size": 11189,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -244,38 +297,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 2308,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test.html",
-			"settings":
-			{
-				"buffer_size": 1122,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "div.pack {\n\tpadding: 1px;\n\tmargin: 30px;\n\tborder-style: none;\n\ttext-align: center;\n}\n\ndiv,p.",
-			"file": "test-css.css",
-			"file_size": 0,
-			"file_write_time": 131403631949585863,
-			"settings":
-			{
-				"buffer_size": 92,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "script.js",
-			"settings":
-			{
-				"buffer_size": 527,
-				"encoding": "UTF-8",
+				"buffer_size": 2636,
 				"line_ending": "Unix"
 			}
 		}
@@ -312,11 +334,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/kyeza/Desktop/Bringo-web-App",
-		"/home/kyeza/Desktop/Bringo-web-App/images/foods"
+		"/home/kyeza/Desktop/Bringo-web-App"
 	],
 	"file_history":
 	[
+		"/home/kyeza/Desktop/Bringo-web-App/script.js",
+		"/home/kyeza/Desktop/Bringo-web-App/index.html",
+		"/home/kyeza/Desktop/Bringo-web-App/style.css",
+		"/home/kyeza/Desktop/Bringo-web-App/test-css.css",
+		"/home/kyeza/Desktop/Bringo-web-App/test.html",
 		"/home/kyeza/Desktop/Bringo-web-App/extraCss.css",
 		"/home/kyeza/Desktop/Bringo-web-App/newCode.html",
 		"/home/kyeza/Desktop/slick-1.6.0/index.html",
@@ -330,7 +356,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -344,6 +370,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"preview",
+			"pack",
 			"em",
 			"md",
 			"sliders",
@@ -365,6 +393,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"strong",
 			"carousel",
 			"class=\"img-responsive img-cus\"",
@@ -386,24 +415,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "plan.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5924,
+						"buffer_size": 10478,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								786,
-								786
+								1571,
+								1571
 							]
 						],
 						"settings":
@@ -412,7 +441,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 354.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -420,48 +449,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "style.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2308,
+						"buffer_size": 11189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2162,
-								2162
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1512.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "test.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1122,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1058,
-								1058
+								6634,
+								6634
 							]
 						],
 						"settings":
@@ -470,27 +470,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3363.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "test-css.css",
+					"buffer": 2,
+					"file": "style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 92,
+						"buffer_size": 2636,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								92,
-								92
+								0,
+								0
 							]
 						],
 						"settings":
@@ -498,39 +498,10 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2280.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "script.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 527,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								404,
-								404
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -538,7 +509,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -575,7 +546,7 @@
 	"project": "bringoWebApp.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
